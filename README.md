@@ -1,6 +1,3 @@
-<h3 align="center">
-  <img alt="cv" title="#cv" src="./public/01.gif" width="700px">
-</h3>
 
 
 
